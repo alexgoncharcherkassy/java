@@ -4,7 +4,7 @@ import java.util.concurrent.ForkJoinPool;
 
 public class FJExperiment {
     public static void main(String args[]) {
-        int pLevel = 1;
+        int pLevel = 2;
         int threshold = 1000;
         long beginT, endT;
 

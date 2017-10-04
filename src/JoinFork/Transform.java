@@ -10,7 +10,7 @@ public class Transform extends RecursiveAction {
     Transform(double[] vals, int s, int e, int t) {
         data = vals;
         start = s;
-        e = e;
+        end = e;
         seqThreshold = t;
     }
 
